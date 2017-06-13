@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ad29aa6-19be-41f5-904a-eddef9a2f9a0" name="Default" comment="" />
+    <list default="true" id="1ad29aa6-19be-41f5-904a-eddef9a2f9a0" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2_1.py" afterPath="$PROJECT_DIR$/02_01.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2_10.py" afterPath="$PROJECT_DIR$/02_10.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2_4.py" afterPath="$PROJECT_DIR$/02_04.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2_7.py" afterPath="$PROJECT_DIR$/02_07.py" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,41 +24,41 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_1.py">
+      <file leaf-file-name="02_01.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="351">
-              <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2_4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_4.py">
+      <file leaf-file-name="02_04.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_04.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="513">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2_7.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_7.py">
+      <file leaf-file-name="02_07.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_07.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2_10.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2_10.py">
+      <file leaf-file-name="02_10.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02_10.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="675">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -166,7 +171,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonbook" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_1.py" />
+      <option name="SCRIPT_NAME" value="D:\000\_python\pythonbook\02_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +190,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonbook" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_4.py" />
+      <option name="SCRIPT_NAME" value="D:\000\_python\pythonbook\02_04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +209,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonbook" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_7.py" />
+      <option name="SCRIPT_NAME" value="D:\000\_python\pythonbook\02_07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +228,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonbook" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_10.py" />
+      <option name="SCRIPT_NAME" value="D:\000\_python\pythonbook\02_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -750,12 +755,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1497314996735</updated>
-      <workItem from="1497314998233" duration="5699000" />
+      <workItem from="1497314998233" duration="5809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5699000" />
+    <option name="totallyTimeSpent" value="5809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2109" y="112" width="2118" height="1281" extended-state="0" />
@@ -811,34 +816,34 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2_1.py">
+    <entry file="file://$PROJECT_DIR$/02_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
-          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_7.py">
+    <entry file="file://$PROJECT_DIR$/02_07.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_4.py">
+    <entry file="file://$PROJECT_DIR$/02_04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_10.py">
+    <entry file="file://$PROJECT_DIR$/02_10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
