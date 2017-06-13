@@ -9,10 +9,10 @@ total = 0.0
 numberOfItems = int(input("Enter number of items: "))
 count = 0
 
-while numberOfItems > 0:
-    count += 1
-    total += float(input("Item {0}: ".format(count)))
-    numberOfItems -= 1
+while numberOfItems:
+    count+=1
+    total+=float(input("Item {0}: ".format(count)))
+    numberOfItems-=1
 
 print("Subtotal: ", format(total, '.2f'))
 print("Tax: ", format(total*tax, '.2f'))

@@ -14,10 +14,10 @@ flour = 2.75
 
 cookies = int(input("Enter number of cookies: "))
 
-cookies /= 48
-sugar *= cookies
-butter *= cookies
-flour *= cookies
+cookies/=48
+sugar*=cookies
+butter*=cookies
+flour*=cookies
 
 print("You need: \n"
       "{0} cups of sugar\n"
