@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1ad29aa6-19be-41f5-904a-eddef9a2f9a0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06/06_02.py" afterPath="$PROJECT_DIR$/06/06_02.py" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +25,7 @@
     <SUITE FILE_PATH="coverage/pythonbook$02_04.coverage" NAME="02_04 Coverage Results" MODIFIED="1497339622961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonbook$03_01.coverage" NAME="03_01 Coverage Results" MODIFIED="1497343146876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
     <SUITE FILE_PATH="coverage/pythonbook$04_01.coverage" NAME="04_01 Coverage Results" MODIFIED="1497347544220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
-    <SUITE FILE_PATH="coverage/pythonbook$06_02.coverage" NAME="06_02 Coverage Results" MODIFIED="1497500765313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
+    <SUITE FILE_PATH="coverage/pythonbook$06_02.coverage" NAME="06_02 Coverage Results" MODIFIED="1497503962085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
@@ -42,8 +43,8 @@
       <file leaf-file-name="06_02.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06/06_02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="8" column="71" lean-forward="false" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -89,8 +90,8 @@
         <option value="$PROJECT_DIR$/04/04_01.py" />
         <option value="$PROJECT_DIR$/05/05_01.py" />
         <option value="$PROJECT_DIR$/06/06_01.py" />
-        <option value="$PROJECT_DIR$/06/06_02.py" />
         <option value="$PROJECT_DIR$/06/06_03.py" />
+        <option value="$PROJECT_DIR$/06/06_02.py" />
       </list>
     </option>
   </component>
@@ -203,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.06_03">
+  <component name="RunManager" selected="Python.06_02">
     <configuration default="false" name="04_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -811,8 +812,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.06_03" />
-        <item index="1" class="java.lang.String" itemvalue="Python.06_02" />
+        <item index="0" class="java.lang.String" itemvalue="Python.06_02" />
+        <item index="1" class="java.lang.String" itemvalue="Python.06_03" />
         <item index="2" class="java.lang.String" itemvalue="Python.06_01" />
         <item index="3" class="java.lang.String" itemvalue="Python.05_01" />
         <item index="4" class="java.lang.String" itemvalue="Python.04_01" />
@@ -831,12 +832,12 @@
       <updated>1497314996735</updated>
       <workItem from="1497314998233" duration="6149000" />
       <workItem from="1497339823172" duration="4427000" />
-      <workItem from="1497354363498" duration="8124000" />
+      <workItem from="1497354363498" duration="8351000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18700000" />
+    <option name="totallyTimeSpent" value="18927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2109" y="112" width="2118" height="1281" extended-state="0" />
@@ -974,8 +975,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/06/06_02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="8" column="71" lean-forward="false" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
           <folding />
         </state>
       </provider>

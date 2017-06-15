@@ -6,7 +6,7 @@
 
 
 def main():
-    filename = input("Enter file name: ")   # try numbers.txt
+    filename = input("Enter file name: ")   # try numbers.txt or n2.txt
     infile = open(filename, 'r')
 
     firstfive = ""
