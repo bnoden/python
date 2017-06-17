@@ -40,8 +40,8 @@ def main():
                 'NT110': '11:00 a.m.', 'CM241': '1:00 pm'}
     found = 0
 
-    while found == 0:
-        course = input("Enter course number: ").upper()
+    while not found:
+        course = input("\nEnter course number: ").upper()
         if course in room:
             print("Room:", room[course])
             found = 1
@@ -51,7 +51,7 @@ def main():
         if course in schedule:
             print("Time:", schedule[course])
             found = 1
-        if found == 0:
+        if not found:
             print("Could not find", course)
 
 main()
