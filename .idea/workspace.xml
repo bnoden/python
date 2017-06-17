@@ -21,7 +21,7 @@
     <SUITE FILE_PATH="coverage/pythonbook$2_7.coverage" NAME="2_7 Coverage Results" MODIFIED="1497319173374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonbook$02_04.coverage" NAME="02_04 Coverage Results" MODIFIED="1497339622961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonbook$06_05.coverage" NAME="06_05 Coverage Results" MODIFIED="1497510829386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
-    <SUITE FILE_PATH="coverage/pythonbook$09_01.coverage" NAME="09_01 Coverage Results" MODIFIED="1497673785814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
+    <SUITE FILE_PATH="coverage/pythonbook$09_01.coverage" NAME="09_01 Coverage Results" MODIFIED="1497675970199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
     <SUITE FILE_PATH="coverage/pythonbook$06_06.coverage" NAME="06_06 Coverage Results" MODIFIED="1497511790000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
     <SUITE FILE_PATH="coverage/pythonbook$06_09.coverage" NAME="06_09 Coverage Results" MODIFIED="1497646294982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
     <SUITE FILE_PATH="coverage/pythonbook$08_01.coverage" NAME="08_01 Coverage Results" MODIFIED="1497659247199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
@@ -52,8 +52,8 @@
       <file leaf-file-name="09_01.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/09/09_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
-              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="897">
+              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,8 +100,8 @@
         <option value="$PROJECT_DIR$/07/07_01.py" />
         <option value="$PROJECT_DIR$/07/07_04.py" />
         <option value="$PROJECT_DIR$/08/08_01.py" />
-        <option value="$PROJECT_DIR$/09/09_01.py" />
         <option value="$PROJECT_DIR$/09/09_04.py" />
+        <option value="$PROJECT_DIR$/09/09_01.py" />
       </list>
     </option>
   </component>
@@ -829,12 +829,12 @@
       <workItem from="1497314998233" duration="6149000" />
       <workItem from="1497339823172" duration="4427000" />
       <workItem from="1497354363498" duration="11524000" />
-      <workItem from="1497558398124" duration="13694000" />
+      <workItem from="1497558398124" duration="15123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35794000" />
+    <option name="totallyTimeSpent" value="37223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2109" y="112" width="2118" height="1281" extended-state="0" />
@@ -1099,8 +1099,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/09/09_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        <state relative-caret-position="897">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
         </state>
       </provider>

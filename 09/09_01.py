@@ -42,6 +42,9 @@ def main():
 
     while not found:
         course = input("\nEnter course number: ").upper()
+        if ' ' in course:
+            course = course.split(' ')
+            course = course[0]+course[1]
         if course in room:
             print("Room:", room[course])
             found = 1
