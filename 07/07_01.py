@@ -6,7 +6,7 @@
 
 def main():
     days = ("Sunday", "Monday", "Tuesday", "Wednesday",
-           "Thursday", "Friday", "Saturday")
+            "Thursday", "Friday", "Saturday")
     sales = []
     total = 0
 
